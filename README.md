@@ -1,1 +1,2 @@
-# net1-vpn-public-vagrant-
+# Vagrantfile который поможет Вам запустить ВМ Mikrotik и ВМ Ubuntu.
+Логопасс микротика: vagrant/vagrant
